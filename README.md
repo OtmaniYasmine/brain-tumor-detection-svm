@@ -43,9 +43,6 @@ brain-tumor-detection-svm
 │   ├── SVM_Model.ipynb
 │   └── SVM_Model_with_The_Same_Data_Train_Test.ipynb
 │
-├── images
-│   └── confusion_matrix.png
-│
 ├── requirements.txt
 ├── README.md
 └── LICENSE
